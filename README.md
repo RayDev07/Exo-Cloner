@@ -1,5 +1,4 @@
 # Exo-cloner
-i customized version /updated
 ---
 
 ## Overview
